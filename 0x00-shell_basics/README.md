@@ -1,1 +1,0 @@
-# Script prints working directory
